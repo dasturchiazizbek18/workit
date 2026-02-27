@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Fraunces 144";
+    src: url(../fonts/Fraunces144ptS100-SemiBold.ttf);
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "Manrope";
+    src: url(../fonts/Manrope-Regular.ttf);
+    font-weight: 400;
+}
